@@ -1,0 +1,7 @@
+{
+  "name": "Leturersforum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
